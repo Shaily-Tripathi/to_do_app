@@ -1,0 +1,26 @@
+{
+  "name": "to_do_app",
+  "version": "1.0.0",
+  "description": "Making this app using MERN stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaily-Tripathi/to_do_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaily-Tripathi/to_do_app/issues"
+  },
+  "homepage": "https://github.com/Shaily-Tripathi/to_do_app#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
